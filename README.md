@@ -22,3 +22,6 @@ Dataset sourced from Kaggle: Airline Passenger Satisfaction
 
 ## 🚀 How to Use
 Download the `.pbix` file and open it using Power BI Desktop to explore the dashboard interactively.
+
+## 📸 Dashboard Preview
+Click or copy the link for preview: https://bit.ly/AirlineCleanlinessSS
