@@ -5,7 +5,7 @@
 ## 📌 Project Overview
 
 This project analyzes airline passenger satisfaction using a real-world dataset from Kaggle:
-[https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction)
+(https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction)
 
 As a **Data Analyst / Product Analyst**, I approached this dataset as if I were working for an airline company facing declining customer satisfaction and retention issues.
 
