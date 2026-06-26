@@ -1,7 +1,6 @@
----
-
 # ✈️ Airline Passenger Satisfaction Analysis (Power BI Project)
 
+---
 ## 📌 Project Overview
 
 This project analyzes airline passenger satisfaction using a real-world dataset from Kaggle:
